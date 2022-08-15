@@ -2589,7 +2589,7 @@
     (pin "1" (uuid 10de0738-889b-4fdc-a211-2761f7cdee96))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 163.83 81.28 0) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 163.83 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0ebda1a3-7afe-4b2c-9147-5e2f0fea4082)
     (property "Reference" "U2" (id 0) (at 163.83 71.12 0))
@@ -2721,7 +2721,7 @@
     (pin "3" (uuid 6c6bbe44-d9f1-44fa-a82a-732ee6ec222f))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 105.41 30.48 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 105.41 30.48 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 211453b7-cfa5-409e-b9f2-b42bf15d1016)
     (property "Reference" "U2" (id 0) (at 105.41 20.32 0))
@@ -2879,7 +2879,7 @@
     (pin "6" (uuid 7ec042b3-7a63-42da-8b14-5793777bdfca))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 162.56 163.83 0) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 162.56 163.83 0) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 29c5794b-5b31-4263-a1f4-eb1defc43e42)
     (property "Reference" "U2" (id 0) (at 162.56 153.67 0))
@@ -3852,7 +3852,7 @@
     (pin "3" (uuid 68aa5e51-3de1-4d56-9f9a-b66bcbf7be76))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 105.41 64.77 0) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 105.41 64.77 0) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8cecb3d6-9653-4f3c-a3b3-a8676a225b3c)
     (property "Reference" "U2" (id 0) (at 105.41 54.61 0))
@@ -5642,16 +5642,16 @@
     (path "/b99d1638-b577-4f10-9b67-afeca6a9d8c0"
       (reference "U1") (unit 1) (value "L78L09_TO92") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
-    (path "/211453b7-cfa5-409e-b9f2-b42bf15d1016"
+    (path "/0ebda1a3-7afe-4b2c-9147-5e2f0fea4082"
       (reference "U2") (unit 1) (value "TL074") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
-    (path "/0ebda1a3-7afe-4b2c-9147-5e2f0fea4082"
+    (path "/211453b7-cfa5-409e-b9f2-b42bf15d1016"
       (reference "U2") (unit 2) (value "TL074") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
-    (path "/29c5794b-5b31-4263-a1f4-eb1defc43e42"
+    (path "/8cecb3d6-9653-4f3c-a3b3-a8676a225b3c"
       (reference "U2") (unit 3) (value "TL074") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
-    (path "/8cecb3d6-9653-4f3c-a3b3-a8676a225b3c"
+    (path "/29c5794b-5b31-4263-a1f4-eb1defc43e42"
       (reference "U2") (unit 4) (value "TL074") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
     (path "/c8c791dc-859c-44c4-9e03-1425d7d2af3d"
