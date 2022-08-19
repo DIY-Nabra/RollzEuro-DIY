@@ -4,6 +4,10 @@
 
   (paper "A3")
 
+  (title_block
+    (title "Rollz 4 Euro")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:TL072" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)
@@ -2153,17 +2157,9 @@
     (uuid fe7e9d38-e9e4-4e48-b001-3866e6d855b4)
   )
 
-  (text "ROLLZ-4 Eurorack" (at 309.88 276.86 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2a946db8-607d-4657-b78f-3913cd73dc60)
-  )
   (text "0" (at 391.16 280.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e27a62b-2f68-4fa1-94b8-538349de6ee8)
-  )
-  (text "15/07/2022" (at 330.2 280.67 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a77073f1-2628-4c08-8506-6d46c39c0e9d)
   )
 
   (global_label "N2" (shape input) (at 162.56 31.75 180) (fields_autoplaced)
