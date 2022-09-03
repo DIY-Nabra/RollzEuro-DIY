@@ -8,7 +8,8 @@ Solder the panel components (jacks and pots) last, on the opposite side of the b
 
 | Reference | Quantity | Part | Notes |
 |-----------|----------|------|-------|
-| R17,R18,R21,R22 | 4 | 10k | |
+| R21,R22 | 2 | 1k or 10k | Output resistor |
+| R17,R18 | 2 | 10k | |
 | R30 | 1 | 100k | |
 | R5,R6 | 2 | 2.2k | |
 | R1,R3 | 2 | 220k | |
@@ -27,6 +28,6 @@ Solder the panel components (jacks and pots) last, on the opposite side of the b
 | D2 | 1 | 3mm LED_D3.0mm | Standard brightness | 
 | J4 | 1 | 2x4 female pin header socket | |
 | J5 | 1 | 2x3 female pin header socket | |
-| J2,J3,J6,J7 | 1 | Thonkiconn 3.5mm mono socket | |
+| J2,J3,J6,J7 | 4 | Thonkiconn 3.5mm mono socket | |
 | RV1,RV2,RV3,RV4 | 4 | 10k 9mm potentiometer | |
 | IC socket 8 pin | 1 | DIP 8 pin socket | |
